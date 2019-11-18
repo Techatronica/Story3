@@ -1,0 +1,1 @@
+This is a new chapter to be merged with another branch.
